@@ -1,2 +1,2 @@
-# githubintroDS2002
-Git Hub Intro Assignment
+# FRV9SC - SAMYU KRISHNASAMY
+DS 2002 Data Systems
